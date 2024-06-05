@@ -2,7 +2,7 @@
 import { images } from "../images/logos/images.js";
 
 export const Bio = {
-    name: "Yahinniel Vásquez",
+    name: "Yahinniel A. Torres V.",
     roles: [
       "Backend Developer",
       "Programming Fundamentals Monitor",

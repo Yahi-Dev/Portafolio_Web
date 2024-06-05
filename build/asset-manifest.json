@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.bfdc9a02.js",
+    "static/media/RealStateApp.png": "/static/media/RealStateApp.1a98b5a72b55dd747629.png",
+    "static/media/RedSocial.png": "/static/media/RedSocial.0ad30426e2c57e579d86.png",
+    "static/media/NetBanking.png": "/static/media/NetBanking.092c35e0c43f408a08d6.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.b15d0dc87fd09d50c071.jpg",
+    "static/media/SGDP.png": "/static/media/SGDP.34206f7f75f7f7e63dfe.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.bfdc9a02.js.map": "/static/js/main.bfdc9a02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.bfdc9a02.js"
+  ]
+}
