@@ -93,22 +93,24 @@ export const HeroRightContainer = styled.div`
 `;
 
 export const Img = styled.img`
-  position: relative;
   width: 100%;
   height: 100%;
-  max-width: 400px;
-  max-height: 400px;
+  position: relative;
   border-radius: 50%;
+  max-height: 400px;
+  max-width: 400px;
   border: 2px solid ${({ theme }) => theme.primary};
+  object-fit: cover; /* Asegura que la imagen cubra el área sin distorsionarse */
+  object-position: top; /* Ajusta la posición de la imagen dentro del contenedor */
 
-  @media (max-width: 768px) {
-    max-width: 400px;
+  @media screen and (max-width: 768px) {
     max-height: 400px;
+    max-width: 400px;
   }
 
-  @media (max-width: 640px) {
-    max-width: 280px;
+  @media screen and (max-width: 640px) {
     max-height: 280px;
+    max-width: 280px;
   }
 `;
 
